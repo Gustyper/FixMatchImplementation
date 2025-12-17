@@ -24,7 +24,3 @@ O notebook está organizado da seguinte forma:
 4.  **Aumentação de Dados:** Definição das pipelines de transformação *Weak* e *Strong*.
 5.  **Classe Trainer:** Loop de treinamento com cálculo de *masked cross-entropy loss* para os dados não rotulados.
 6.  **Visualização:** Funções para inspecionar pseudo-rótulos e comparar históricos de treinamento.
-
-## 👨‍💻 Autor
-
-* [Seu Nome]
